@@ -1,0 +1,22 @@
+{
+	// 忽略包目录
+	"ignored_packages":
+	[
+		"Vintage",
+	],
+
+	// 主题
+	"theme": "auto",
+	
+	// 配色方案
+	"color_scheme": "Packages/Color Scheme - Default/Mariana.sublime-color-scheme",
+	
+	// 默认字体大小
+	"font_size": 14,
+
+	// 暗黑主题配色
+	"dark_theme": "Default Dark.sublime-theme",
+
+	// 明亮主题配色
+	"light_theme": "Adaptive.sublime-theme",
+}
