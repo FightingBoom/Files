@@ -19,4 +19,10 @@
 
 	// 明亮主题配色
 	"light_theme": "Adaptive.sublime-theme",
+
+	// 状态栏显示当前文件编码
+	"show_encoding": true,
+
+	// 状态栏显示当前文件行尾结束符
+	"show_line_endings": true,
 }
