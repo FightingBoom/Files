@@ -1,0 +1,45 @@
+{
+    // VSCode使用皮肤
+    "workbench.iconTheme": "vscode-icons",
+   
+    // 自动保存设置
+    "files.autoSave": "afterDelay",
+
+
+    // 字体、大小设置
+    "editor.fontFamily": "Consolas, 'Courier New', monospace",
+    "editor.fontSize": 18,
+
+
+    // 搜索结果显示行号
+    "search.showLineNumbers": true,
+
+
+    // 不覆盖标签页
+    "workbench.editor.enablePreview": false,
+    "workbench.editor.showTabs": true,
+
+
+    // 默认关闭初始页面
+    "workbench.startupEditor": "none",
+
+
+    // 自动识别文档编码格式
+    "files.autoGuessEncoding": true,
+
+
+    // 过滤固定文件（夹）
+    "files.exclude": {
+        "**/.git": true,
+        "**/.svn": true,
+        "**/.hg": true,
+        "**/CVS": true,
+        "**/.DS_Store": true,
+        "**/Thumbs.db": true,
+        "**/.vscode": true,
+        "**/release": true,
+    },
+
+    // 控制在复制时是否同时复制语法高亮
+    "editor.copyWithSyntaxHighlighting": false,
+}
