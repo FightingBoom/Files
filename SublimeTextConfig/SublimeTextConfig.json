@@ -2,7 +2,7 @@
     // 忽略包目录
     "ignored_packages":
     [
-    	"Vintage",
+        "Vintage",
     ],
 
     // 主题
@@ -30,4 +30,7 @@
     "spell_check": false,
     "spelling_selector": "",
     "dictionary": "",
+
+    // 查找文件限制大小，0：无限制，默认16MB
+    "find_in_files_max_result_size": 16777216,
 }
